@@ -1,4 +1,6 @@
-este È um novo documento de texto
+este √© um novo documento de texto
 
 
-alteraÁ„o b
+altera√ß√£o b
+
+Altera√ß√£o C (Geraldo Esteve Aqui)
